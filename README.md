@@ -10,8 +10,8 @@ position: fixed;
 inset:0;
 object-fit: cover;
 background-size: fill;
-width: 1000vw;
-height: 1000vh;
+width: 100vw;
+height: 100vh;
 opacity: 0.71;
 background: url('https://raw.githubusercontent.com/rickyg365/M/main/RDT_20240311_2356137932262022125029602.jpg');
 "]{}
