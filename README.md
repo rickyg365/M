@@ -13,5 +13,5 @@ background-size: fill;
 width: 10000vw;
 height: 10000vh;
 opacity: 0.71;
-background: url('https://raw.githubusercontent.com/rickyg365/M/main/b8bda1aa0ab510c54ba1acfe09bbafca.gif');
+background: url('https://raw.githubusercontent.com/rickyg365/M/main/20240606_225713.jpg');
 "]{}
