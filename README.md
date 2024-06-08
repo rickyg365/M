@@ -13,5 +13,5 @@ background-size: fill;
 width: 100vw;
 height: 100vh;
 opacity: 0.71;
-background: url('https://raw.githubusercontent.com/rickyg365/M/main/RDT_20240311_2356137932262022125029602.jpg');
+background: url('https://i.pinimg.com/originals/b8/bd/a1/b8bda1aa0ab510c54ba1acfe09bbafca.gif');
 "]{}
